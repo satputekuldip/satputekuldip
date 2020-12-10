@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: kuldip.dev
+Token: f14125384d9172aa2cd3bad37035f4dd5471c3c38d1579b2e77495f8504368e4
